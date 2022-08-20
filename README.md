@@ -1,5 +1,4 @@
 # Tic-Tac-Toe
-Simple Tic Tac Toe game using OOPS concepts in C++
 This experiment is an object oriented program that was all put together and implemented 
 through a game of Tic Tac Toe. The goal is to illustrate the process of designing an object 
 oriented solution to a small problem by simulating Tic Tac Toe ,a two person game that 
